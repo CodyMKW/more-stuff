@@ -1,12 +1,12 @@
 @font-face {
     font-family: "Splat-title";
-    src: url("/assets/fonts/SplatoonTitle.otf");
+    src: url("/more-stuff/splashtags/assets/fonts/SplatoonTitle.otf");
     font-style: normal;
     font-weight: normal;
 }
 @font-face {
     font-family: "Splat-text";
-    src: url("/assets/fonts/SplatoonText.otf");
+    src: url("/more-stuff/splashtags/assets/fonts/SplatoonText.otf");
     font-style: normal;
     font-weight: normal;
 }
@@ -14,52 +14,52 @@
 /* Japan */
 @font-face {
     font-family: "Kurokane";
-    src: url("/assets/fonts/JPja/Kurokane.otf");
+    src: url("/more-stuff/splashtags/assets/fonts/JPja/Kurokane.otf");
     font-style: normal;
     font-weight: normal;
 }
 @font-face {
     font-family: "Rowdy";
-    src: url("/assets/fonts/JPja/Rowdy.otf");
+    src: url("/more-stuff/splashtags/assets/fonts/JPja/Rowdy.otf");
     font-style: normal;
     font-weight: normal;
 }
 /* Chinese (Simplified) */
 @font-face {
     font-family: "HanyiZongyi";
-    src: url("/assets/fonts/CNzh/hanyi_zongyi.ttf");
+    src: url("/more-stuff/splashtags/assets/fonts/CNzh/hanyi_zongyi.ttf");
     font-style: normal;
     font-weight: normal;
 }
 @font-face {
     font-family: "HuakangZongyi";
-    src: url("/assets/fonts/CNzh/huakang_xinzongyi.ttc");
+    src: url("/more-stuff/splashtags/assets/fonts/CNzh/huakang_xinzongyi.ttc");
     font-style: normal;
     font-weight: normal;
 }
 /* Korean */
 @font-face {
     font-family: "KCUBEr";
-    src: url("/assets/fonts/KRko/AsiaKCUBE-R.otf");
+    src: url("/more-stuff/splashtags/assets/fonts/KRko/AsiaKCUBE-R.otf");
     font-style: normal;
     font-weight: normal;
 }
 @font-face {
     font-family: "KERINm";
-    src: url("/assets/fonts/KRko/AsiaKERIN-M.otf");
+    src: url("/more-stuff/splashtags/assets/fonts/KRko/AsiaKERIN-M.otf");
     font-style: normal;
     font-weight: normal;
 }
 /* Chinese (Traditional) */
 @font-face {
     font-family: "DFPT_AZ5";
-    src: url("/assets/fonts/TWzh/DFPT_AZ5.otf");
+    src: url("/more-stuff/splashtags/assets/fonts/TWzh/DFPT_AZ5.otf");
     font-style: normal;
     font-weight: normal;
 }
 @font-face {
     font-family: "DFPT_ZY9";
-    src: url("/assets/fonts/TWzh/DFPT_ZY9.otf");
+    src: url("/more-stuff/splashtags/assets/fonts/TWzh/DFPT_ZY9.otf");
     font-style: normal;
     font-weight: normal;
 }
@@ -152,13 +152,13 @@ body {
     margin: 0;
     padding: 0;
 
-    background-image: url("/assets/images/camo-black.png");
+    background-image: url("/more-stuff/splashtags/assets/images/camo-black.png");
 }
 
 canvas {
     margin-top: 60px;
     border-radius: 4px;
-    background-image: url("/assets/images/squidbg.png");
+    background-image: url("/more-stuff/splashtags/assets/images/squidbg.png");
     animation: bganim 120s linear infinite;
 }
 
@@ -177,7 +177,7 @@ canvas {
 }
 
 #main {
-    background-image: url("/assets/images/title_bg.png"), url("/assets/images/main-bg-top.png"), url("/assets/images/main-bg-middle.png"), url("/assets/images/main-bg-bottom.png");
+    background-image: url("/more-stuff/splashtags/assets/images/title_bg.png"), url("/more-stuff/splashtags/assets/images/main-bg-top.png"), url("/more-stuff/splashtags/assets/images/main-bg-middle.png"), url("/more-stuff/splashtags/assets/images/main-bg-bottom.png");
     background-repeat: no-repeat;
     background-position: center top, top, center 45px, bottom;
     background-size: auto, 100% 45px, 100% calc(100% - 145px), 100% 100px;
@@ -222,7 +222,7 @@ a {
 }
 
 .tab {
-    background-image: url("/assets/images/tab-left.png"), url("/assets/images/tab-middle.png"), url("/assets/images/tab-right.png");
+    background-image: url("/more-stuff/splashtags/assets/images/tab-left.png"), url("/more-stuff/splashtags/assets/images/tab-middle.png"), url("/more-stuff/splashtags/assets/images/tab-right.png");
     background-repeat: no-repeat;
     background-position: left, center, right;
     background-size: 20px 100%, calc(100% - 40px) 100%, 20px 100%;
@@ -240,7 +240,7 @@ a {
 }
 .tab.selected {
     transform: translateY(-2px);
-    background-image: url("/assets/images/tab-left-selected.png"), url("/assets/images/tab-middle-selected.png"), url("/assets/images/tab-right-selected.png");
+    background-image: url("/more-stuff/splashtags/assets/images/tab-left-selected.png"), url("/more-stuff/splashtags/assets/images/tab-middle-selected.png"), url("/more-stuff/splashtags/assets/images/tab-right-selected.png");
 }
 .hidden {
     display: none;
@@ -251,7 +251,7 @@ a {
     position: relative;
     margin: -10px auto auto auto;
     padding-top: 5px;
-    background-image: url("/assets/images/tab-bg-top.png"), url("/assets/images/tab-bg-middle.png"), url("/assets/images/tab-bg-bottom.png");
+    background-image: url("/more-stuff/splashtags/assets/images/tab-bg-top.png"), url("/more-stuff/splashtags/assets/images/tab-bg-middle.png"), url("/more-stuff/splashtags/assets/images/tab-bg-bottom.png");
     background-repeat: no-repeat;
     background-position: top, center, bottom;
     background-size: 100% 45px, 100% calc(100% - 90px), 100% 45px;
@@ -427,11 +427,11 @@ label {
 }
 
 .scale.up {
-    background-image: url("/assets/images/zoom_in.png");
+    background-image: url("/more-stuff/splashtags/assets/images/zoom_in.png");
 }
 
 .scale.down {
-    background-image: url("/assets/images/zoom_out.png");
+    background-image: url("/more-stuff/splashtags/assets/images/zoom_out.png");
 }
 
 #showcredits {
@@ -607,10 +607,10 @@ small {
     transform: scale(1.25);
 }
 .overwrite {
-    background-image: url("/assets/images/edit.svg");
+    background-image: url("/more-stuff/splashtags/assets/images/edit.svg");
 }
 .delete {
-    background-image: url("/assets/images/delete.svg");
+    background-image: url("/more-stuff/splashtags/assets/images/delete.svg");
 }
 
 
