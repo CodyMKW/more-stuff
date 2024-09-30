@@ -480,7 +480,7 @@
 			"spf2Custom": "Splatfeest 2",
 			"spf3Custom": "Splatfeest 3",
 			"cakeCustom": "Komco-souvenir",
-			"josephCustom": "Josephs Meme Pack",
+			"josephCustom": "Josephs Meme-pakket",
 			"userCustom": "Geüpload"
 		},
 		"default": ["Splatlandisch", "jongere"],
@@ -642,7 +642,7 @@
 			"spf2Custom": "Splatfest 2",
 			"spf3Custom": "Splatfest 3",
 			"cakeCustom": "Souvenir Impastec",
-			"josephCustom": "Josephs Meme Pack",
+			"josephCustom": "Pacchetto meme di Joseph",
 			"userCustom": "Caricato"
 		},
 		"default": ["Fanciullo", "splattoniano"],
@@ -723,7 +723,7 @@
 			"spf2Custom": "Сплатфест 2",
 			"spf3Custom": "Сплатфест 3",
 			"cakeCustom": "Памятка от Паштетико",
-			"josephCustom": "Josephs Meme Pack",
+			"josephCustom": "Набор мемов Джозефса",
 			"userCustom": "Загружено"
 		},
 		"default": ["плюхтонский", "парень"],
@@ -804,7 +804,7 @@
 			"spf2Custom": "フェス 2",
 			"spf3Custom": "フェス 3",
 			"cakeCustom": "ネリメモリー",
-			"josephCustom": "Josephs Meme Pack",
+			"josephCustom": "ジョセフのミームパック",
 			"userCustom": "アップロード済み"
 		},
 		"default": ["バンカラな", "若者"],
@@ -885,7 +885,7 @@
 			"spf2Custom": "节日 2",
 			"spf3Custom": "节日 3",
 			"cakeCustom": "记忆蛋糕",
-			"josephCustom": "Josephs Meme Pack",
+			"josephCustom": "约瑟夫斯模因包",
 			"userCustom": "已上传"
 		},
 		"font": ["HanyiZongyi", "HuakangZongyi"],
@@ -967,7 +967,7 @@
 			"spf2Custom": "페스티벌 2",
 			"spf3Custom": "페스티벌 3",
 			"cakeCustom": "메모리 케이크",
-			"josephCustom": "Josephs Meme Pack",
+			"josephCustom": "조셉 밈 팩",
 			"userCustom": "업로드"
 		},
 		"font": ["KERINm", "KCUBEr"],
@@ -1050,7 +1050,7 @@
 			"spf2Custom": "祭典 2",
 			"spf3Custom": "祭典 3",
 			"cakeCustom": "記憶蛋糕",
-			"josephCustom": "Josephs Meme Pack"
+			"josephCustom": "約瑟夫斯模因包"
 		},
 		"font": ["DFPT_AZ5", "DFPT_ZY9"],
 		"default": ["蠻頹的", "年輕人"],
