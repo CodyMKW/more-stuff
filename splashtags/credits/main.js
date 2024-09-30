@@ -71,6 +71,14 @@ const credits = [
             twitter: "sharkinodraws"
         }
     },
+    {
+        name: "Joseph",
+        contribution: "Josephs Meme Pack",
+        links: {
+            twitter: "josephsisto",
+            bluesky: "josephsisto.bsky.social"
+        }
+    },
 ]
 
 const load = () => {
