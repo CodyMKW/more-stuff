@@ -1,11 +1,20 @@
 const credits = [
     {
         name: "seymour",
-        contribution: "Website creator",
+        contribution: "Original Website creator",
         links: {
             twitter: "spaghettitron",
             bluesky: "splashtagmaker.com",
             github: "https://github.com/SeymourSchlong/"
+        }
+    },
+    {
+        name: "CodyMKW",
+        contribution: "Mirror Website creator",
+        links: {
+            twitter: "codymkw",
+            bluesky: "codymkw.nekoweb.org",
+            github: "https://github.com/CodyMKW/"
         }
     },
     {
