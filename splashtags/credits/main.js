@@ -10,7 +10,7 @@ const credits = [
     },
     {
         name: "CodyMKW",
-        contribution: "Mirror Website creator",
+        contribution: "Mirror <a href='https://codymkw.github.io/more-stuff/splashtags/' target='_blank'>Website</a> creator",
         links: {
             twitter: "codymkw",
             bluesky: "codymkw.nekoweb.org",
