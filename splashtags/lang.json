@@ -73,6 +73,7 @@
 			"spf2Custom": "Splatoon 2 Splatfests",
 			"spf3Custom": "Splatoon 3 Splatfests",
 			"cakeCustom": "Mem Cakes",
+			"acvillagerCustom": "Animal Crossing Villagers",
 			"josephCustom": "Josephs Meme Pack",
 			"userCustom": "Uploaded"
 		},
@@ -154,6 +155,7 @@
 			"spf2Custom": "Festivales 2",
 			"spf3Custom": "Festivales 3",
 			"cakeCustom": "Pastirrecuerdo",
+			"acvillagerCustom": "Aldeanos de cruce de animales",
 			"josephCustom": "Paquete de memes de Joseph",
 			"userCustom": "Subido"
 		},
@@ -235,6 +237,7 @@
 			"spf2Custom": "Festivales 2",
 			"spf3Custom": "Festivales 3",
 			"cakeCustom": "Pastirrecuerdo",
+			"acvillagerCustom": "Aldeanos de cruce de animales",
 			"josephCustom": "Paquete de memes de Joseph",
 			"userCustom": "Subido"
 		},
@@ -316,6 +319,7 @@
 			"spf2Custom": "Festivals 2",
 			"spf3Custom": "Festivals 3",
 			"cakeCustom": "Souvenir Patapoulpe",
+			"acvillagerCustom": "Villageois d’Animal Crossing",
 			"josephCustom": "Pack de mèmes Josephs",
 			"userCustom": "Téléchargé"
 		},
@@ -397,6 +401,7 @@
 			"spf2Custom": "Festivals 2",
 			"spf3Custom": "Festivals 3",
 			"cakeCustom": "Souvenir Patapoulpe",
+			"acvillagerCustom": "Villageois d’Animal Crossing",
 			"josephCustom": "Pack de mèmes Josephs",
 			"userCustom": "Téléchargé"
 		},
@@ -480,6 +485,7 @@
 			"spf2Custom": "Splatfeest 2",
 			"spf3Custom": "Splatfeest 3",
 			"cakeCustom": "Komco-souvenir",
+			"acvillagerCustom": "Animal Crossing-dorpelingen",
 			"josephCustom": "Josephs Meme-pakket",
 			"userCustom": "Geüpload"
 		},
@@ -561,6 +567,7 @@
 			"spf2Custom": "Splatfest 2",
 			"spf3Custom": "Splatfest ",
 			"cakeCustom": "Kamabo-Souvenir",
+			"acvillagerCustom": "Animal Crossing-Dorfbewohner",
 			"josephCustom": "Josephs Meme Pack",
 			"userCustom": "Hochgeladen"
 		},
@@ -642,6 +649,7 @@
 			"spf2Custom": "Splatfest 2",
 			"spf3Custom": "Splatfest 3",
 			"cakeCustom": "Souvenir Impastec",
+			"acvillagerCustom": "Abitanti di Animal Crossing",
 			"josephCustom": "Pacchetto meme di Joseph",
 			"userCustom": "Caricato"
 		},
@@ -723,6 +731,7 @@
 			"spf2Custom": "Сплатфест 2",
 			"spf3Custom": "Сплатфест 3",
 			"cakeCustom": "Памятка от Паштетико",
+			"acvillagerCustom": "Жители деревни, пересекающие животных",
 			"josephCustom": "Набор мемов Джозефса",
 			"userCustom": "Загружено"
 		},
@@ -804,6 +813,7 @@
 			"spf2Custom": "フェス 2",
 			"spf3Custom": "フェス 3",
 			"cakeCustom": "ネリメモリー",
+			"acvillagerCustom": "どうぶつの森の村人たち",
 			"josephCustom": "ジョセフのミームパック",
 			"userCustom": "アップロード済み"
 		},
@@ -885,6 +895,7 @@
 			"spf2Custom": "节日 2",
 			"spf3Custom": "节日 3",
 			"cakeCustom": "记忆蛋糕",
+			"acvillagerCustom": "动物森友会村民",
 			"josephCustom": "约瑟夫斯模因包",
 			"userCustom": "已上传"
 		},
@@ -967,6 +978,7 @@
 			"spf2Custom": "페스티벌 2",
 			"spf3Custom": "페스티벌 3",
 			"cakeCustom": "메모리 케이크",
+			"acvillagerCustom": "동물의 숲 마을 사람들",
 			"josephCustom": "조셉 밈 팩",
 			"userCustom": "업로드"
 		},
@@ -1050,6 +1062,7 @@
 			"spf2Custom": "祭典 2",
 			"spf3Custom": "祭典 3",
 			"cakeCustom": "記憶蛋糕",
+			"acvillagerCustom": "動物森友會村民",
 			"josephCustom": "約瑟夫斯模因包"
 		},
 		"font": ["DFPT_AZ5", "DFPT_ZY9"],
