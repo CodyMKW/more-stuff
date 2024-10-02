@@ -246,6 +246,11 @@
 		{"colour":"ffffff","file":"other/endsky"},
 
 		{
+			"name": "acbgCustom","id": "banner-acbg-custom"
+		},
+		{"colour":"ffffff","file":"animalcrossing/acbg"},
+
+		{
 			"name": "userCustom","id": "banner-uploaded-custom"
 		}
 	],
